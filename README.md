@@ -21,5 +21,5 @@ https://gmplib.org/#DOWNLOAD
 - [GMP](https://en.wikipedia.org/wiki/GNU_Multiple_Precision_Arithmetic_Library) - La bibliothéque utilisé pour les grands nombres.
 
 ## Utilisation
-Il suffit de se positionner dans le dossier Project et lancer la commande : make run.
+Il suffit de se positionner dans le dossier Project et de lancer la commande : make run.
 
